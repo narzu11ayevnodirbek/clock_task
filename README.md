@@ -8,12 +8,11 @@ This project demonstrates how to create an analog + digital clock without using 
 - ⏱️ Real-time clock updates every second
 - 🎨 Custom clock face using `CustomPainter`
 - 🧠 No external state management – only `setState`
-- 📱 Fully responsive UI
 - 🌙 Dark-themed interface
 
 ## 📸 Screenshots
 
-![Clock Screenshot](assets/clock.png)
+<img src="assets/clock.png" alt="Clock UI" width="300"/>
 
 ## 📦 Built With
 
@@ -26,7 +25,7 @@ This project demonstrates how to create an analog + digital clock without using 
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/flutter-clock-app.git
-cd flutter-clock-app
+git clone https://github.com/narzu11ayevnodirbek/clock_task.git
+cd clock_task
 flutter pub get
 flutter run
